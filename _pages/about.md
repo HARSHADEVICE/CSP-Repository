@@ -3,9 +3,12 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+Hello Everyone, 
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Welcome to my Blog page. My name is Harsha. I am a Sophomore in Del Norte High School, San Diego
 
+Use this blog forum to contirbute your thoughts on various topics & make a change in our community. 
 
+I hope to you see more often here. 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+Happy Blogging
