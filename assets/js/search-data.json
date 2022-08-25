@@ -50,17 +50,6 @@
 
   
       ,"page1": {
-          "title": "School",
-          "content": "",
-          "url": "https://harshadevice.github.io/vscode/school/",
-          "relUrl": "/school/",
-          "date": ""
-      }
-      
-  
-
-  
-      ,"page2": {
           "title": "About Me",
           "content": "Hello Everyone, . Welcome to my Blog page. My name is Harsha. I am a Sophomore in Del Norte High School, San Diego . Use this blog forum to contirbute your thoughts on various topics &amp; make a change in our community. . I hope to you see more often here. . Happy Blogging .",
           "url": "https://harshadevice.github.io/vscode/about/",
@@ -92,7 +81,7 @@
   
 
   
-      ,"page11": {
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://harshadevice.github.io/vscode/robots.txt",
