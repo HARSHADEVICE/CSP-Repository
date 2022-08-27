@@ -32,3 +32,6 @@ print("hello world")
 | Harsha | Del Norte |
 
 That's the end of the post! Bye!!
+
+#### Adding an Image
+![]({{ site.baseurl }}/images/harshadevicelogo.png"fast.ai's logo")
