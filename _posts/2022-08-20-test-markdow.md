@@ -34,4 +34,4 @@ print("hello world")
 That's the end of the post! Bye!!
 
 #### Adding an Image
-![]({{ site.baseurl }}/images/harshadevicelogo.png"fast.ai's logo")
+![]({{ site.baseurl }}/images/logo.png"fast.ai's logo")
