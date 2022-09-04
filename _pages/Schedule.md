@@ -19,6 +19,6 @@ permalink: /Trimester 1/
     <th>Personal Learnings</th>
   <tr>
     <td>0</td>
-    <td><a href="https://nighthawkcoders.github.io/APCSP//week/0">link text</a>Week 0 Link</td>
+    <td><a href="https://nighthawkcoders.github.io/APCSP//week/0">Week 0 Link</a></td>
     <td>Learned how to Install the tools needed for additional coding.</td>
   </tr>
