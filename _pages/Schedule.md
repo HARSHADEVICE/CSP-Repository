@@ -1,16 +1,14 @@
 ---
 layout: page
-title: Learnings
+title: Trimester 1
 permalink: /Trimester 1/
 ---
 
+## Introduction to Tools and Resources
+> The initial weeks focus on introducing Tools, Pair Programming, and the AP Resources that we plan to use throughout the year. At the end of Weeks 0-3, students will be exposed to blogging with GitHub Pages; developing with Jupyter Notebooks, Python, JavaScript, HTML, and Code.org AppLab; working with AP classroom and becoming familiar with Create Performance Task project requirements.
 
 <html>
-<style>
-table, th, td {
-  border:1px solid black;
-}
-</style>
+
 <body>
 
 
