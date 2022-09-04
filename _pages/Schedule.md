@@ -4,7 +4,7 @@ title: Trimester 1
 permalink: /Trimester 1/
 ---
 
-<!DOCTYPE html>
+
 <html>
 <style>
 table, th, td {
@@ -17,9 +17,9 @@ table, th, td {
 
 <table style="width:100%">
   <tr>
-    <td>Week</td>
-    <td>Sprint/Points Link</td>
-    <td>Personal Learnings</td>
+    <td><b>Week</b></td>
+    <td><b>Sprint/Points Link</b></td>
+    <td><b>Personal Learnings</b></td>
   <tr>
     <td>0</td>
     <td><p><a href="https://nighthawkcoders.github.io/APCSP//week/0">Week 1 Link</a></p></td>
