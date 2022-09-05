@@ -10,4 +10,4 @@ title: Changed Theme Findings
 
 I found that the hacker theme changes the text and color of your blog. 
 
-![Hacker Theme](file:///C:/Users/harsh/OneDrive/Desktop/Theme.png)
+![Hacker Theme](https://raw.githubusercontent.com/HARSHADEVICE/vscode/master/images/Theme.png)
