@@ -28,10 +28,9 @@ ___
 
 - We implemented images and customized buttons to suit our theme, capitals. We did this by searching up and uploading images for all the questions and pages displayed on the quiz. 
 For the buttons, we changed the color and the font to better suit our theme. 
-- We had a few errors during testing, particularly translating the quiz to the next screen. We fixed this by modifying the blocks to the correct screen. 
+- We had a few errors during testing, particularly moving the quiz to the next screen. We fixed this by modifying the blocks to the correct order of screens. 
 - We had screens showing up multiple times, which made our quiz wrong and inefficient, so we modified the blocks again to fix this.
-- The buttons did not work sometimes and had the fucntions wrong, which made our quiz not work, we fixed this by redoing all the buttons, which helped us "reset" the way the
-quiz was done and get it to work. 
+- The buttons did not work sometimes and had the fucntions wrong, which made our quiz not work, we fixed this by redoing all the buttons, which helped us "reset" the way the quiz was done and get it to work. 
 
 ### Successes:
 
