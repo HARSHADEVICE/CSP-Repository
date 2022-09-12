@@ -13,6 +13,11 @@ My partner Raunak and I created an Applab [quiz](https://studio.code.org/project
 
 ___
 
+### Ideas for Applab Quiz (Topics)
+- Space
+- Capitals (We ended up choosing this one)
+- School Subjects 
+
 
 ### Challenges:
 
