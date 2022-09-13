@@ -41,3 +41,19 @@ For the buttons, we changed the color and the font to better suit our theme.
 
 - We learned how to use Applab to design a quiz. Specifically, using the blocks gave us a different idea on how we should generally approach making a program. 
 I got to learn how the computer "thinks" as it processes our code. Overall, from this project, we both learned how to approach in making a program and how to be more logical/methodical when coding. 
+
+### App Ideas (When done with Quiz)
+- Voting System for Class President and other positions at school. 
+- Video Games
+- - Flappy Bird
+- - Snake 
+- - Fighting Games 
+- - Minecraft (Block Game)
+- Board Games
+- - Tic-Tac-Toe
+- - Snake
+- - Chess
+- Vacation App (Used this idea)
+- Number Guessing Generator 
+- Stock Collection App (Keeping an organization for all your investments + more tips)
+- Notes App (Storing Notes)
