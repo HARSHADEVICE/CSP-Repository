@@ -46,8 +46,8 @@ layout: notebook
 <span class="k">else</span><span class="p">:</span>
     <span class="nb">print</span><span class="p">(</span><span class="n">rsp</span> <span class="o">+</span> <span class="s2">&quot; is incorrect!&quot;</span><span class="p">)</span>
 
-<span class="n">rsp</span> <span class="o">=</span> <span class="n">question_with_response</span><span class="p">(</span><span class="s2">&quot;What is the capital of the United States&quot;</span><span class="p">)</span>
-<span class="k">if</span> <span class="n">rsp</span> <span class="o">==</span> <span class="s2">&quot;Washington D.C&quot;</span><span class="p">:</span>
+<span class="n">rsp</span> <span class="o">=</span> <span class="n">question_with_response</span><span class="p">(</span><span class="s2">&quot;What is the capital of the United States of America&quot;</span><span class="p">)</span>
+<span class="k">if</span> <span class="n">rsp</span> <span class="o">==</span> <span class="s2">&quot;Washington DC&quot;</span><span class="p">:</span>
     <span class="nb">print</span><span class="p">(</span><span class="n">rsp</span> <span class="o">+</span> <span class="s2">&quot; is correct!&quot;</span><span class="p">)</span>
     <span class="n">correct</span> <span class="o">+=</span> <span class="mi">1</span>
 <span class="k">else</span><span class="p">:</span>
@@ -73,16 +73,16 @@ layout: notebook
 <div class="output_area">
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>Hello, root running /bin/python3
+<pre>Hello, harsha running /bin/python3
 You will be asked 3 questions.
 Question: Are you ready to take a test?
 Question: Who is the first president of the U.S?
-George Washington is correct!
-Question: What is the capital of the United States
-Washington D.C is correct!
+Jai is incorrect!
+Question: What is the capital of the United States of America
+Washington DC is correct!
 Question: How many stars are there in the U.S Flag?
 50 is correct!
-root you scored 3/3
+harsha you scored 2/3
 </pre>
 </div>
 </div>

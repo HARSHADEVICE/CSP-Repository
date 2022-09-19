@@ -21,7 +21,7 @@ layout: notebook
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="American-Revolution-Vocabulary">American Revolution Vocabulary<a class="anchor-link" href="#American-Revolution-Vocabulary"> </a></h2><ul>
-<li><p><strong>Abolish</strong>: To formally put an end to.</p>
+<li><p><strong>Abolish</strong>: To formally put an end to (a system, practice, or institution). Harsha</p>
 </li>
 <li><p><strong>Charter</strong>: A written document from a government or ruler that grants certain rights to
 an individual, group organization, or to people in general. In colonial times, a

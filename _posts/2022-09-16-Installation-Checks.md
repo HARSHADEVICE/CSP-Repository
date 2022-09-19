@@ -4,7 +4,7 @@ description: Checking if everything is installed.
 title: Installation Checks
 toc: true
 badges: true
-categories: [fastpages, jupyter]
+categories: [fastpages, jupyter,history]
 nb_path: _notebooks/2022-09-16-Installation-Checks.ipynb
 layout: notebook
 ---
