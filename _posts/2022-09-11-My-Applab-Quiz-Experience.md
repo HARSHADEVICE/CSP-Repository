@@ -19,6 +19,7 @@ ___
 - School Subjects 
 - Foods Favorites
 - Sports Places
+- Vacation Spots
 
 ### Challenges:
 
