@@ -18,6 +18,7 @@ ___
 - Capitals (We ended up choosing this one)
 - School Subjects 
 - Foods Favorites
+- Sports Places
 
 ### Challenges:
 
