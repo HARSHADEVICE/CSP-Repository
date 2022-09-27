@@ -171,6 +171,17 @@
 
   
       ,"page3": {
+          "title": "Submenu",
+          "content": "| Overview | Tutorial | Calculator | Binary | Grades | Graph | Life | Snake | .",
+          "url": "https://harshadevice.github.io/vscode/Submenu/",
+          "relUrl": "/Submenu/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page4": {
           "title": "Vocab",
           "content": "This is my vocab page for this class. I will add onto it as time goes by. . If Statement: Python if statement is one of the most commonly used conditional statements in programming languages. | Else Statement: An else statement contains the block of code that executes if the conditional expression in the if statement resolves to 0 or a FALSE value. | .",
           "url": "https://harshadevice.github.io/vscode/Vocab/",
@@ -181,7 +192,7 @@
   
 
   
-      ,"page4": {
+      ,"page5": {
           "title": "About Me",
           "content": "Hello Everyone, . Welcome to my Blog page. My name is Harsha. I am a Sophomore in Del Norte High School, San Diego . Use this blog forum to contirbute your thoughts on various topics &amp; make a change in our community. . I hope to you see more often here. . Happy Blogging .",
           "url": "https://harshadevice.github.io/vscode/about/",
@@ -213,7 +224,7 @@
   
 
   
-      ,"page13": {
+      ,"page14": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://harshadevice.github.io/vscode/robots.txt",
