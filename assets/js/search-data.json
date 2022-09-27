@@ -14,7 +14,7 @@
     
         ,"post1": {
             "title": "Project Ideas",
-            "content": "Project Idea . We decided to make some sort of a clock that displays the time zone that you are in. | It can be made into many options such as analog, digital, or themes in which you can change into. | The clock will also have a timer and stopwatch option to add more features. | The clock will display min, hours, seconds, and maybe miliseconds depending upon the specs. | Kind of like this link over here which displays an image… | Alarm Clock | . Roles . | Person | Role | | ———– | ———– | | Harsha | Frontend | | Yuri | Devops | | Sachit | Backend | |Raunak | Backend | |Tanay | Scrum | .",
+            "content": "Project Idea . We decided to make some sort of a clock that displays the time zone that you are in. | It can be made into many options such as analog, digital, or themes in which you can change into. | The clock will also have a timer and stopwatch option to add more features. | The clock will display min, hours, seconds, and maybe miliseconds depending upon the specs. | Kind of like this link over here which displays an image… | Alarm Clock | . Roles . |Person |Role| — | — | |Yuri|Devops| |Harsha|Frontend| |Sachit|Backend| |Raunak|Backend| . Image . .",
             "url": "https://harshadevice.github.io/vscode/markdown/2022/09/26/Project-Ideas.html",
             "relUrl": "/markdown/2022/09/26/Project-Ideas.html",
             "date": " • Sep 26, 2022"
