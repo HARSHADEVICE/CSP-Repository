@@ -15,12 +15,11 @@ title: Project Ideas
 - [Alarm Clock](https://cdn.dribbble.com/users/844462/screenshots/14553716/media/dd2bf2776e12fada46d7ee5148fa4ba0.png?compress=1&resize=400x300)
 
 ## Roles
-|Person |Role|
---- | --- |
-|Yuri|Devops|
-|Harsha|Frontend|
-|Sachit|Backend|
-|Raunak|Backend|
+Yuri - Devops
+Sachit - Backend
+Raunak - Backend
+Tanay - Scrum Master
+Harsha - Frontend
 
 ## Image
 
