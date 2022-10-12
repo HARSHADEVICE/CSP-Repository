@@ -242,25 +242,31 @@ window.onload = wrap_img;
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">menu</span> <span class="o">=</span>  <span class="p">{</span><span class="s2">"burger"</span><span class="p">:</span> <span class="mf">3.99</span><span class="p">,</span>
-         <span class="s2">"fries"</span><span class="p">:</span> <span class="mf">1.99</span><span class="p">,</span>
+         <span class="s2">"fries"</span><span class="p">:</span> <span class="mf">2.99</span><span class="p">,</span>
          <span class="s2">"drink"</span><span class="p">:</span> <span class="mf">0.99</span><span class="p">}</span>
 <span class="n">total</span> <span class="o">=</span> <span class="mi">0</span>
 
-<span class="nb">print</span><span class="p">(</span><span class="s2">"Menu"</span><span class="p">)</span> <span class="c1">#Displays menu.</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">"Menu:"</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">"_______________"</span><span class="p">)</span>
 <span class="k">for</span> <span class="n">k</span><span class="p">,</span><span class="n">v</span> <span class="ow">in</span> <span class="n">menu</span><span class="o">.</span><span class="n">items</span><span class="p">():</span>
     <span class="nb">print</span><span class="p">(</span><span class="n">k</span> <span class="o">+</span> <span class="s2">"  $"</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">v</span><span class="p">))</span> 
+<span class="nb">print</span><span class="p">(</span><span class="s2">"________________"</span><span class="p">)</span>
 
-
-<span class="n">order</span> <span class="o">=</span> <span class="kc">True</span> <span class="c1">#set this as a boolean in order to store the value as true.</span>
-<span class="k">while</span> <span class="n">order</span><span class="p">:</span>  <span class="c1">#while loop is made to ensure that the user orders as much stuff as he/she wants.</span>
-    <span class="n">item</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">"Please select an item from the menu"</span><span class="p">)</span> 
+<span class="n">order</span> <span class="o">=</span> <span class="kc">True</span>
+<span class="k">while</span> <span class="n">order</span><span class="p">:</span>   
+    <span class="n">item</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">"choose your order"</span><span class="p">)</span>
     <span class="k">if</span> <span class="n">item</span> <span class="ow">in</span> <span class="n">menu</span><span class="o">.</span><span class="n">keys</span><span class="p">():</span> 
         <span class="n">total</span><span class="o">+=</span> <span class="n">menu</span><span class="p">[</span><span class="n">item</span><span class="p">]</span>
-        <span class="nb">print</span><span class="p">(</span><span class="s2">"This will cost you $"</span><span class="p">,</span> <span class="n">total</span><span class="p">)</span>
-    <span class="k">else</span><span class="p">:</span>           <span class="c1"># the code will render as False boolean if the user orders something that is not in the menu.</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"Your order so far: 1"</span><span class="p">,</span> <span class="n">item</span><span class="p">)</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"This costs $"</span><span class="p">,</span> <span class="n">menu</span><span class="p">[</span><span class="n">item</span><span class="p">])</span>
+    <span class="k">elif</span> <span class="n">item</span> <span class="o">==</span> <span class="nb">str</span><span class="p">(</span><span class="s2">"Done"</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"Your total is: $"</span><span class="p">,</span> <span class="n">total</span><span class="p">)</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"Enjoy!"</span><span class="p">)</span>
+    <span class="k">else</span><span class="p">:</span>           
         <span class="n">order</span> <span class="o">=</span> <span class="kc">False</span>
+    
         
-<span class="nb">print</span><span class="p">(</span><span class="s2">"Alright, thats it"</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">"Have a good day!"</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -273,14 +279,21 @@ window.onload = wrap_img;
 <div class="output_area">
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>Menu
+<pre>Menu:
+_______________
 burger  $3.99
-fries  $1.99
+fries  $2.99
 drink  $0.99
-This will cost you $ 3.99
-This will cost you $ 5.98
-This will cost you $ 6.970000000000001
-Alright, thats it
+________________
+Your order so far: 1 burger
+This costs $ 3.99
+Your order so far: 1 drink
+This costs $ 0.99
+Your order so far: 1 fries
+This costs $ 2.99
+Your total is: $ 7.970000000000001
+Enjoy!
+Have a good day!
 </pre>
 </div>
 </div>
