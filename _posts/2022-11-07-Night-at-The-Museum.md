@@ -20,6 +20,7 @@ I realy liked Night at the Museum. It was a cool and unique way to show off what
 
 **3D Animation**: The projects in 3D Animation really impressed me because there was a ton of different styles that people used. There was all sorts of textures that students used to impress viewers. Some people had sort of a videogameish animation (the picture below), and others had like a donut box and a cool animation to display the donut and table. I was very impressed with their designs. 
 
+**Progress for Next Trimester**: My progress for next tri is that I will add more styling to my website as frontend and learn more css and html. Additionally, I will add stuff that makes the website look better designed, professional, and sleek. 
 
 
 
