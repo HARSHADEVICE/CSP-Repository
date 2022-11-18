@@ -245,7 +245,7 @@
     
         ,"post22": {
             "title": "Binary Math",
-            "content": "Binary Math with Conversions . Plus Binary Octal Hexadecimal Decimal Minus Character . +1 | 00000000 | 0 | 0 | 0 | Character | -1 | . Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | . | | | | | | | | | | | | | | | | | | | | | | | | . 2^12 2^11 2^10 2^9 2^8 2^7 2^6 2^5 2^4 2^3 2^2 2^1 2^0 .",
+            "content": "Binary Math with Conversions . Plus Binary Octal Hexadecimal Decimal Base 4 Minus Character . +1 | 00000000 | 0 | 0 | 0 | 0 | Character | -1 | . Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | Turn on | . | | | | | | | | | | | | | | | | | | | | | | | | . 2^12 2^11 2^10 2^9 2^8 2^7 2^6 2^5 2^4 2^3 2^2 2^1 2^0 .",
             "url": "https://harshadevice.github.io/vscode/frontend/binary",
             "relUrl": "/frontend/binary",
             "date": " • Jul 7, 2022"
