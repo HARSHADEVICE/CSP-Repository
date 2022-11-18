@@ -14,7 +14,7 @@ type: pbl
 <!-- Hack 2: change to 24 bits and add a color code and display color when 24 bits, think about display on this one -->
 <!-- Hack 3: do your own thing -->
 
-{% assign BITS = 8 %}
+{% assign BITS = 24 %}
 
 <div class="container bg-primary">
     <header class="pb-3 mb-4 border-bottom border-primary text-dark">
@@ -30,6 +30,7 @@ type: pbl
                 <th>Hexadecimal</th>
                 <th>Decimal</th>
                 <th>Minus</th>
+                <th>Character</th>
             </tr>
             <tr>
                 <td><button type="button" id="add1" onclick="add(1)">+1</button></td>
@@ -37,6 +38,7 @@ type: pbl
                 <td id="octal">0</td>
                 <td id="hexadecimal">0</td>
                 <td id="decimal">0</td>
+                <td id="Character">Character</td>
                 <td><button type="button" id="sub1" onclick="add(-1)">-1</button></td>
             </tr>
             </table>
@@ -63,7 +65,23 @@ type: pbl
         </div>
     </div>
 </div>
-
+ <table>
+        <tr>
+                <th>2^12</th>
+                <th>2^11</th>
+                <th>2^10</th>
+                <th>2^9</th>
+                <th>2^8</th>
+                <th>2^7</th>
+                <th>2^6</th>
+                <th>2^5</th>
+                <th>2^4</th>
+                <th>2^3</th>
+                <th>2^2</th>
+                <th>2^1</th>
+                <th>2^0</th>
+        <tr>
+  <table>      
 <script>
     const BITS = {{ BITS }};
     const MAX = 2 ** BITS - 1;
@@ -89,6 +107,8 @@ type: pbl
         document.getElementById('hexadecimal').innerHTML = parseInt(binary, 2).toString(16);
         // Decimal conversion
         document.getElementById('decimal').innerHTML = parseInt(binary, 2).toString();
+        // Character conversion
+        document.getElementById('Character').innerHTML = determinePrintable(binary);
     }
     //
     function decimal_2_base(decimal, base) {
