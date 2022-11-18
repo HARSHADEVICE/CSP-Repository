@@ -29,6 +29,7 @@ type: pbl
                 <th>Octal</th>
                 <th>Hexadecimal</th>
                 <th>Decimal</th>
+                <th>Base 4</th>
                 <th>Minus</th>
                 <th>Character</th>
             </tr>
@@ -38,6 +39,7 @@ type: pbl
                 <td id="octal">0</td>
                 <td id="hexadecimal">0</td>
                 <td id="decimal">0</td>
+                <td id="Base 4">0</td>
                 <td id="Character">Character</td>
                 <td><button type="button" id="sub1" onclick="add(-1)">-1</button></td>
             </tr>
@@ -82,6 +84,8 @@ type: pbl
                 <th>2^0</th>
         <tr>
   <table>      
+
+
 <script>
     const BITS = {{ BITS }};
     const MAX = 2 ** BITS - 1;
@@ -109,6 +113,8 @@ type: pbl
         document.getElementById('decimal').innerHTML = parseInt(binary, 2).toString();
         // Character conversion
         document.getElementById('Character').innerHTML = determinePrintable(binary);
+        // Base 4 
+        document.getElementById('Base 4').innerHTML = parseInt(binary, 2).toString(4);
     }
     //
     function decimal_2_base(decimal, base) {
