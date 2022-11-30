@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://harshadevice.github.io/vscode/fastpages/jupyter/2022/08/21/Challenge-Homework.html</loc>
-<lastmod>2022-08-21T00:00:00-05:00</lastmod>
-</url>
-<url>
 <loc>https://harshadevice.github.io/vscode/fastpages/jupyter/history/2022/08/26/History-Quiz.html</loc>
 <lastmod>2022-08-26T00:00:00-05:00</lastmod>
 </url>
@@ -99,6 +95,10 @@
 <url>
 <loc>https://harshadevice.github.io/vscode/markdown/2022/11/28/Notes-From-Presentations.html</loc>
 <lastmod>2022-11-28T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://harshadevice.github.io/vscode/fastpages/jupyter/2022/11/30/Challenge-Homework.html</loc>
+<lastmod>2022-11-30T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>https://harshadevice.github.io/vscode/Trimester%201/</loc>
