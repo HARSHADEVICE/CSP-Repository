@@ -1,1 +1,1 @@
-Sitemap: https://harshadevice.github.io/vscode/sitemap.xml
+Sitemap: https://harshadevice.github.io/fastpagesblog/sitemap.xml
