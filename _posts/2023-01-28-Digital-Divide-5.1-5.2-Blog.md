@@ -8,13 +8,10 @@ title: Digital Divide 5.1-5.2
 
 ## 5.1 Beneficial and Harmful Effects 
 - **Benefits (of our projects):**
-- **Parametric Recipe Finder (Me):** The benefits of my section of the project is that it can find recipes based on what the user has at home. It makes it convienient
-for them to make food right when they need it or if they cannot go and shop for new ingredients.
-- **Restaurant Locator (Shreyas):** The benefits of the restaurant locator is that it can find resturants near. Users can find places to get food without having to go through much trouble. 
-They can also find the food they want if they filter the type of cuisine(s) they want to eat from.
-- **Measurement Calculator (Colin):** The benefits of the measurement calculator is that it gives an easy answer when converting from mass to volume. If users are struggling with how much of the ingredient they need to get,
-they can just use this to find the accurate measurement.
-- **Recipies with a Portion Calculator (Keira):** The benefits of the portion calculator is that it shows the ingredients and portions required for x (user input) servings for food the user wants to make.
+- **Parametric Recipe Finder (Me):** The benefits of my section of the project is that it can find recipes based on what the user has at home. It makes it convienient for them to make food right when they need it or if they cannot go and shop for new ingredients.
+- **Restaurant Locator (Shreyas):** The benefits of the restaurant locator is that it can find resturants near you. Users can find places to get food without having to go through much trouble. They can also find the food they want if they filter the type of cuisine(s) they want to eat from.
+- **Measurement Calculator (Colin):** The benefits of the measurement calculator is that it gives an easy answer when converting from mass to volume. instead of searching it up and being confused on how to do it, you can simply put the number in this calculator and it will correctly display the volume/mass.
+- **Recipies with a Portion Calculator (Keira):** The benefits of the portion calculator is that it shows the ingredients and portions required for x (user input) servings for food the user wants to make. Instead of guessing the correct portions and not knowing how much you need to make, simply use this calculator and it'll show just how much to make for how many people. 
 
 -**Potential Harmful effect (of our projects):**
 - A potential harmful effect for all our projects are that users might overuse our things to the point that they do not know how to cook/make food without it. 
