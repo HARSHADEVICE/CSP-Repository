@@ -1,0 +1,12 @@
+--2023-03-06 12:14:01--  https://raw.githubusercontent.com/nighthawkcoders/APCSP/master/_notebooks/2023-03-07-AP-unit2-2.ipynb
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.109.133, 185.199.108.133, 185.199.111.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.109.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 22128 (22K) [text/plain]
+Saving to: ‘2023-03-07-AP-unit2-2.ipynb’
+
+     0K .......... .......... .                               100%  657K=0.03s
+
+2023-03-06 12:16:13 (657 KB/s) - ‘2023-03-07-AP-unit2-2.ipynb’ saved [22128/22128]
+
