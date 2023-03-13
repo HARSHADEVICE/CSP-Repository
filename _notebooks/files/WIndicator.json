@@ -1,0 +1,44 @@
+{
+    "City Name":{
+      "0":"San Diego",
+      "1":"San Francisco",
+      "2":"San Clemente",
+      "3":"Los Angeles",
+      "4":"San Mateo",
+      "5":"San Berdanio",
+      "6":"Santa Clara",
+      "7":"Santa Barabara",
+      "8":"San Jose",
+      "9":"San Antanio",
+      "10":"San Rafeal",
+      "11":"Santa Inez"
+    },
+    "Population":{
+      "0":12,
+      "1":10,
+      "2":12,
+      "3":11,
+      "4":"Junior",
+      "5":20,
+      "6":12,
+      "7":10,
+      "8":"9th Grade",
+      "9":9,
+      "10":11,
+      "11":10
+    },
+    "GPA":{
+      "0":3.57,
+      "1":4,
+      "2":2.78,
+      "3":3.45,
+      "4":4.75,
+      "5":3.33,
+      "6":2.95,
+      "7":3.9,
+      "8":3.15,
+      "9":2.8,
+      "10":3.45,
+      "11":2.75
+    }
+}

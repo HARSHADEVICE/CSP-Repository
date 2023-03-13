@@ -1,0 +1,2567 @@
+[
+  {
+    "Name": "Sun Yue",
+    "TEAM": "Lakers",
+    "Points": 6
+  },
+  {
+    "Name": "Arron Afflalo",
+    "TEAM": "Rockets",
+    "Points": 724
+  },
+  {
+    "Name": "Alexis Ajinca",
+    "TEAM": "Bobcats",
+    "Points": 10
+  },
+  {
+    "Name": "LaMarcus Aldridge",
+    "TEAM": "Trailblazers",
+    "Points": 1393
+  },
+  {
+    "Name": "Joe Alexander",
+    "TEAM": "Bulls",
+    "Points": 4
+  },
+  {
+    "Name": "Malik Allen",
+    "TEAM": "Rockets",
+    "Points": 105
+  },
+  {
+    "Name": "Ray Allen",
+    "TEAM": "Celtics",
+    "Points": 1304
+  },
+  {
+    "Name": "Tony Allen",
+    "TEAM": "Celtics",
+    "Points": 330
+  },
+  {
+    "Name": "Rafer Alston",
+    "TEAM": "Heat",
+    "Points": 165
+  },
+  {
+    "Name": "Rafer Alston",
+    "TEAM": "Nets",
+    "Points": 262
+  },
+  {
+    "Name": "Louis Amundson",
+    "TEAM": "Suns",
+    "Points": 371
+  },
+  {
+    "Name": "Antonio Anderson",
+    "TEAM": "Thunder",
+    "Points": 2
+  },
+  {
+    "Name": "Chris Andersen",
+    "TEAM": "Rockets",
+    "Points": 448
+  },
+  {
+    "Name": "David Andersen",
+    "TEAM": "Rockets",
+    "Points": 367
+  },
+  {
+    "Name": "Ryan Anderson",
+    "TEAM": "Magic",
+    "Points": 487
+  },
+  {
+    "Name": "Carmelo Anthony",
+    "TEAM": "Rockets",
+    "Points": 1943
+  },
+  {
+    "Name": "Joel Anthony",
+    "TEAM": "Heat",
+    "Points": 218
+  },
+  {
+    "Name": "Gilbert Arenas",
+    "TEAM": "Wizards",
+    "Points": 722
+  },
+  {
+    "Name": "Trevor Ariza",
+    "TEAM": "Rockets",
+    "Points": 1072
+  },
+  {
+    "Name": "Hilton Armstrong",
+    "TEAM": "Rockets",
+    "Points": 10
+  },
+  {
+    "Name": "Hilton Armstrong",
+    "TEAM": "Hornets",
+    "Points": 51
+  },
+  {
+    "Name": "Hilton Armstrong",
+    "TEAM": "Kings",
+    "Points": 10
+  },
+  {
+    "Name": "Carlos Arroyo",
+    "TEAM": "Heat",
+    "Points": 439
+  },
+  {
+    "Name": "Ron Artest",
+    "TEAM": "Lakers",
+    "Points": 845
+  },
+  {
+    "Name": "Darrell Arthur",
+    "TEAM": "Grizzlies",
+    "Points": 143
+  },
+  {
+    "Name": "Chucky Atkins",
+    "TEAM": "Pistons",
+    "Points": 161
+  },
+  {
+    "Name": "D.J. Augustin",
+    "TEAM": "Bobcats",
+    "Points": 508
+  },
+  {
+    "Name": "Kelenna Azubuike",
+    "TEAM": "Warriors",
+    "Points": 125
+  },
+  {
+    "Name": "Renaldo Balkman",
+    "TEAM": "Rockets",
+    "Points": 14
+  },
+  {
+    "Name": "Marcus Banks",
+    "TEAM": "Raptors",
+    "Points": 109
+  },
+  {
+    "Name": "Leandro Barbosa",
+    "TEAM": "Suns",
+    "Points": 418
+  },
+  {
+    "Name": "Jose Barea",
+    "TEAM": "Mavericks",
+    "Points": 596
+  },
+  {
+    "Name": "Andrea Bargnani",
+    "TEAM": "Raptors",
+    "Points": 1376
+  },
+  {
+    "Name": "Matt Barnes",
+    "TEAM": "Magic",
+    "Points": 716
+  },
+  {
+    "Name": "Earl Barron",
+    "TEAM": "Knicks",
+    "Points": 82
+  },
+  {
+    "Name": "Brandon Bass",
+    "TEAM": "Magic",
+    "Points": 290
+  },
+  {
+    "Name": "Shane Battier",
+    "TEAM": "Rockets",
+    "Points": 534
+  },
+  {
+    "Name": "Tony Battie",
+    "TEAM": "Nets",
+    "Points": 36
+  },
+  {
+    "Name": "Nicolas Batum",
+    "TEAM": "Trailblazers",
+    "Points": 375
+  },
+  {
+    "Name": "Jerryd Bayless",
+    "TEAM": "Trailblazers",
+    "Points": 630
+  },
+  {
+    "Name": "Michael Beasley",
+    "TEAM": "Heat",
+    "Points": 1156
+  },
+  {
+    "Name": "Rodrigue Beaubois",
+    "TEAM": "Mavericks",
+    "Points": 397
+  },
+  {
+    "Name": "Marco Belinelli",
+    "TEAM": "Raptors",
+    "Points": 469
+  },
+  {
+    "Name": "Charlie Bell",
+    "TEAM": "Bucks",
+    "Points": 459
+  },
+  {
+    "Name": "Raja Bell",
+    "TEAM": "Warriors",
+    "Points": 11
+  },
+  {
+    "Name": "Raja Bell",
+    "TEAM": "Bobcats",
+    "Points": 60
+  },
+  {
+    "Name": "Jonathan Bender",
+    "TEAM": "Knicks",
+    "Points": 118
+  },
+  {
+    "Name": "Mike Bibby",
+    "TEAM": "Hawks",
+    "Points": 730
+  },
+  {
+    "Name": "Andris Biedrins",
+    "TEAM": "Warriors",
+    "Points": 166
+  },
+  {
+    "Name": "Chauncey Billups",
+    "TEAM": "Rockets",
+    "Points": 1427
+  },
+  {
+    "Name": "DeJuan Blair",
+    "TEAM": "Spurs",
+    "Points": 638
+  },
+  {
+    "Name": "Steve Blake",
+    "TEAM": "Trailblazers",
+    "Points": 388
+  },
+  {
+    "Name": "Steve Blake",
+    "TEAM": "Clippers",
+    "Points": 198
+  },
+  {
+    "Name": "Andray Blatche",
+    "TEAM": "Wizards",
+    "Points": 1143
+  },
+  {
+    "Name": "Keith Bogans",
+    "TEAM": "Spurs",
+    "Points": 347
+  },
+  {
+    "Name": "Andrew Bogut",
+    "TEAM": "Bucks",
+    "Points": 1095
+  },
+  {
+    "Name": "Matt Bonner",
+    "TEAM": "Spurs",
+    "Points": 457
+  },
+  {
+    "Name": "Josh Boone",
+    "TEAM": "Nets",
+    "Points": 253
+  },
+  {
+    "Name": "Carlos Boozer",
+    "TEAM": "Jazz",
+    "Points": 1519
+  },
+  {
+    "Name": "Chris Bosh",
+    "TEAM": "Raptors",
+    "Points": 1678
+  },
+  {
+    "Name": "Ryan Bowen",
+    "TEAM": "Thunder",
+    "Points": 4
+  },
+  {
+    "Name": "Earl Boykins",
+    "TEAM": "Wizards",
+    "Points": 440
+  },
+  {
+    "Name": "Elton Brand",
+    "TEAM": "76ers",
+    "Points": 996
+  },
+  {
+    "Name": "Corey Brewer",
+    "TEAM": "Timberwolves",
+    "Points": 1066
+  },
+  {
+    "Name": "Ronnie Brewer",
+    "TEAM": "Grizzlies",
+    "Points": 10
+  },
+  {
+    "Name": "Ronnie Brewer",
+    "TEAM": "Jazz",
+    "Points": 501
+  },
+  {
+    "Name": "Primoz Brezec",
+    "TEAM": "Bucks",
+    "Points": 14
+  },
+  {
+    "Name": "Primoz Brezec",
+    "TEAM": "76ers",
+    "Points": 5
+  },
+  {
+    "Name": "Jon Brockman",
+    "TEAM": "Kings",
+    "Points": 147
+  },
+  {
+    "Name": "Aaron Brooks",
+    "TEAM": "Rockets",
+    "Points": 1604
+  },
+  {
+    "Name": "Bobby Brown",
+    "TEAM": "Clippers",
+    "Points": 70
+  },
+  {
+    "Name": "Bobby Brown",
+    "TEAM": "Hornets",
+    "Points": 145
+  },
+  {
+    "Name": "Devin Brown",
+    "TEAM": "Hornets",
+    "Points": 379
+  },
+  {
+    "Name": "Devin Brown",
+    "TEAM": "Bulls",
+    "Points": 20
+  },
+  {
+    "Name": "Derrick Brown",
+    "TEAM": "Bobcats",
+    "Points": 186
+  },
+  {
+    "Name": "Kwame Brown",
+    "TEAM": "Pistons",
+    "Points": 157
+  },
+  {
+    "Name": "Shannon Brown",
+    "TEAM": "Lakers",
+    "Points": 667
+  },
+  {
+    "Name": "Kobe Bryant",
+    "TEAM": "Lakers",
+    "Points": 1970
+  },
+  {
+    "Name": "Chase Budinger",
+    "TEAM": "Rockets",
+    "Points": 657
+  },
+  {
+    "Name": "Caron Butler",
+    "TEAM": "Mavericks",
+    "Points": 410
+  },
+  {
+    "Name": "Caron Butler",
+    "TEAM": "Wizards",
+    "Points": 796
+  },
+  {
+    "Name": "Rasual Butler",
+    "TEAM": "Clippers",
+    "Points": 979
+  },
+  {
+    "Name": "Andrew Bynum",
+    "TEAM": "Lakers",
+    "Points": 977
+  },
+  {
+    "Name": "Will Bynum",
+    "TEAM": "Pistons",
+    "Points": 628
+  },
+  {
+    "Name": "Jose Calderon",
+    "TEAM": "Raptors",
+    "Points": 699
+  },
+  {
+    "Name": "Marcus Camby",
+    "TEAM": "Trailblazers",
+    "Points": 162
+  },
+  {
+    "Name": "Marcus Camby",
+    "TEAM": "Clippers",
+    "Points": 394
+  },
+  {
+    "Name": "Brian Cardinal",
+    "TEAM": "Timberwolves",
+    "Points": 48
+  },
+  {
+    "Name": "Rodney Carney",
+    "TEAM": "76ers",
+    "Points": 319
+  },
+  {
+    "Name": "DeMarre Carroll",
+    "TEAM": "Grizzlies",
+    "Points": 209
+  },
+  {
+    "Name": "Matt Carroll",
+    "TEAM": "Mavericks",
+    "Points": 46
+  },
+  {
+    "Name": "Anthony Carter",
+    "TEAM": "Rockets",
+    "Points": 180
+  },
+  {
+    "Name": "Vince Carter",
+    "TEAM": "Magic",
+    "Points": 1244
+  },
+  {
+    "Name": "Omri Casspi",
+    "TEAM": "Kings",
+    "Points": 792
+  },
+  {
+    "Name": "Mario Chalmers",
+    "TEAM": "Heat",
+    "Points": 521
+  },
+  {
+    "Name": "Tyson Chandler",
+    "TEAM": "Bobcats",
+    "Points": 333
+  },
+  {
+    "Name": "Wilson Chandler",
+    "TEAM": "Knicks",
+    "Points": 993
+  },
+  {
+    "Name": "Earl Clark",
+    "TEAM": "Suns",
+    "Points": 140
+  },
+  {
+    "Name": "Darren Collison",
+    "TEAM": "Hornets",
+    "Points": 946
+  },
+  {
+    "Name": "Jason Collins",
+    "TEAM": "Hawks",
+    "Points": 16
+  },
+  {
+    "Name": "Jarron Collins",
+    "TEAM": "Suns",
+    "Points": 34
+  },
+  {
+    "Name": "Mardy Collins",
+    "TEAM": "Clippers",
+    "Points": 111
+  },
+  {
+    "Name": "Nick Collison",
+    "TEAM": "Thunder",
+    "Points": 439
+  },
+  {
+    "Name": "Mike Conley",
+    "TEAM": "Grizzlies",
+    "Points": 959
+  },
+  {
+    "Name": "Will Conroy",
+    "TEAM": "Rockets",
+    "Points": 6
+  },
+  {
+    "Name": "Brian Cook",
+    "TEAM": "Rockets",
+    "Points": 21
+  },
+  {
+    "Name": "Daequan Cook",
+    "TEAM": "Heat",
+    "Points": 223
+  },
+  {
+    "Name": "Jamal Crawford",
+    "TEAM": "Hawks",
+    "Points": 1425
+  },
+  {
+    "Name": "Dante Cunningham",
+    "TEAM": "Trailblazers",
+    "Points": 243
+  },
+  {
+    "Name": "Eddy Curry",
+    "TEAM": "Knicks",
+    "Points": 26
+  },
+  {
+    "Name": "JamesOn Curry",
+    "TEAM": "Clippers",
+    "Points": 0
+  },
+  {
+    "Name": "Stephen Curry",
+    "TEAM": "Warriors",
+    "Points": 1399
+  },
+  {
+    "Name": "Samuel Dalembert",
+    "TEAM": "76ers",
+    "Points": 667
+  },
+  {
+    "Name": "Erick Dampier",
+    "TEAM": "Mavericks",
+    "Points": 328
+  },
+  {
+    "Name": "Marquis Daniels",
+    "TEAM": "Celtics",
+    "Points": 288
+  },
+  {
+    "Name": "Baron Davis",
+    "TEAM": "Clippers",
+    "Points": 1145
+  },
+  {
+    "Name": "Glen Davis",
+    "TEAM": "Celtics",
+    "Points": 340
+  },
+  {
+    "Name": "Paul Davis",
+    "TEAM": "Wizards",
+    "Points": 5
+  },
+  {
+    "Name": "Ricky Davis",
+    "TEAM": "Clippers",
+    "Points": 158
+  },
+  {
+    "Name": "Austin Daye",
+    "TEAM": "Pistons",
+    "Points": 349
+  },
+  {
+    "Name": "Carlos Delfino",
+    "TEAM": "Bucks",
+    "Points": 825
+  },
+  {
+    "Name": "Luol Deng",
+    "TEAM": "Bulls",
+    "Points": 1230
+  },
+  {
+    "Name": "DeMar DeRozan",
+    "TEAM": "Raptors",
+    "Points": 662
+  },
+  {
+    "Name": "Yakhouba Diawara",
+    "TEAM": "Heat",
+    "Points": 5
+  },
+  {
+    "Name": "Boris Diaw",
+    "TEAM": "Bobcats",
+    "Points": 925
+  },
+  {
+    "Name": "Travis Diener",
+    "TEAM": "Trailblazers",
+    "Points": 3
+  },
+  {
+    "Name": "Travis Diener",
+    "TEAM": "Pacers",
+    "Points": 3
+  },
+  {
+    "Name": "DeSagana Diop",
+    "TEAM": "Bobcats",
+    "Points": 32
+  },
+  {
+    "Name": "Keyon Dooling",
+    "TEAM": "Nets",
+    "Points": 364
+  },
+  {
+    "Name": "Joey Dorsey",
+    "TEAM": "Rockets",
+    "Points": 11
+  },
+  {
+    "Name": "Joey Dorsey",
+    "TEAM": "Kings",
+    "Points": 12
+  },
+  {
+    "Name": "Chris Douglas-Roberts",
+    "TEAM": "Nets",
+    "Points": 657
+  },
+  {
+    "Name": "Toney Douglas",
+    "TEAM": "Knicks",
+    "Points": 481
+  },
+  {
+    "Name": "Goran Dragic",
+    "TEAM": "Suns",
+    "Points": 635
+  },
+  {
+    "Name": "Jared Dudley",
+    "TEAM": "Suns",
+    "Points": 674
+  },
+  {
+    "Name": "Chris Duhon",
+    "TEAM": "Knicks",
+    "Points": 494
+  },
+  {
+    "Name": "Tim Duncan",
+    "TEAM": "Spurs",
+    "Points": 1395
+  },
+  {
+    "Name": "Mike Dunleavy",
+    "TEAM": "Pacers",
+    "Points": 666
+  },
+  {
+    "Name": "Kevin Durant",
+    "TEAM": "Thunder",
+    "Points": 2472
+  },
+  {
+    "Name": "Wayne Ellington",
+    "TEAM": "Timberwolves",
+    "Points": 505
+  },
+  {
+    "Name": "Monta Ellis",
+    "TEAM": "Warriors",
+    "Points": 1631
+  },
+  {
+    "Name": "Francisco Elson",
+    "TEAM": "Bucks",
+    "Points": 10
+  },
+  {
+    "Name": "Francisco Elson",
+    "TEAM": "76ers",
+    "Points": 2
+  },
+  {
+    "Name": "Maurice Evans",
+    "TEAM": "Hawks",
+    "Points": 453
+  },
+  {
+    "Name": "Reggie Evans",
+    "TEAM": "Raptors",
+    "Points": 95
+  },
+  {
+    "Name": "Tyreke Evans",
+    "TEAM": "Kings",
+    "Points": 1450
+  },
+  {
+    "Name": "Jordan Farmar",
+    "TEAM": "Lakers",
+    "Points": 591
+  },
+  {
+    "Name": "Raymond Felton",
+    "TEAM": "Bobcats",
+    "Points": 968
+  },
+  {
+    "Name": "Rudy Fernandez",
+    "TEAM": "Trailblazers",
+    "Points": 503
+  },
+  {
+    "Name": "Kyrylo Fesenko",
+    "TEAM": "Jazz",
+    "Points": 128
+  },
+  {
+    "Name": "Michael Finley",
+    "TEAM": "Spurs",
+    "Points": 93
+  },
+  {
+    "Name": "Michael Finley",
+    "TEAM": "Celtics",
+    "Points": 109
+  },
+  {
+    "Name": "Derek Fisher",
+    "TEAM": "Lakers",
+    "Points": 615
+  },
+  {
+    "Name": "Jonny Flynn",
+    "TEAM": "Timberwolves",
+    "Points": 1094
+  },
+  {
+    "Name": "T.J. Ford",
+    "TEAM": "Pacers",
+    "Points": 484
+  },
+  {
+    "Name": "Jeff Foster",
+    "TEAM": "Pacers",
+    "Points": 49
+  },
+  {
+    "Name": "Randy Foye",
+    "TEAM": "Wizards",
+    "Points": 704
+  },
+  {
+    "Name": "Channing Frye",
+    "TEAM": "Suns",
+    "Points": 904
+  },
+  {
+    "Name": "Dan Gadzuric",
+    "TEAM": "Bucks",
+    "Points": 88
+  },
+  {
+    "Name": "Sundiata Gaines",
+    "TEAM": "Jazz",
+    "Points": 106
+  },
+  {
+    "Name": "Danilo Gallinari",
+    "TEAM": "Knicks",
+    "Points": 1221
+  },
+  {
+    "Name": "Francisco Garcia",
+    "TEAM": "Kings",
+    "Points": 202
+  },
+  {
+    "Name": "Kevin Garnett",
+    "TEAM": "Celtics",
+    "Points": 990
+  },
+  {
+    "Name": "Marc Gasol",
+    "TEAM": "Grizzlies",
+    "Points": 1008
+  },
+  {
+    "Name": "Pau Gasol",
+    "TEAM": "Lakers",
+    "Points": 1190
+  },
+  {
+    "Name": "Rudy Gay",
+    "TEAM": "Grizzlies",
+    "Points": 1567
+  },
+  {
+    "Name": "Alonzo Gee",
+    "TEAM": "Wizards",
+    "Points": 81
+  },
+  {
+    "Name": "Devean George",
+    "TEAM": "Warriors",
+    "Points": 242
+  },
+  {
+    "Name": "Daniel Gibson",
+    "TEAM": "Cavaliers",
+    "Points": 355
+  },
+  {
+    "Name": "Taj Gibson",
+    "TEAM": "Bulls",
+    "Points": 735
+  },
+  {
+    "Name": "J.R. Giddens",
+    "TEAM": "Celtics",
+    "Points": 24
+  },
+  {
+    "Name": "J.R. Giddens",
+    "TEAM": "Knicks",
+    "Points": 45
+  },
+  {
+    "Name": "Trey Gilder",
+    "TEAM": "Grizzlies",
+    "Points": 2
+  },
+  {
+    "Name": "Manu Ginobili",
+    "TEAM": "Spurs",
+    "Points": 1237
+  },
+  {
+    "Name": "Ryan Gomes",
+    "TEAM": "Timberwolves",
+    "Points": 832
+  },
+  {
+    "Name": "Drew Gooden",
+    "TEAM": "Clippers",
+    "Points": 355
+  },
+  {
+    "Name": "Drew Gooden",
+    "TEAM": "Mavericks",
+    "Points": 408
+  },
+  {
+    "Name": "Ben Gordon",
+    "TEAM": "Pistons",
+    "Points": 855
+  },
+  {
+    "Name": "Eric Gordon",
+    "TEAM": "Clippers",
+    "Points": 1045
+  },
+  {
+    "Name": "Marcin Gortat",
+    "TEAM": "Magic",
+    "Points": 293
+  },
+  {
+    "Name": "Joey Graham",
+    "TEAM": "Rockets",
+    "Points": 266
+  },
+  {
+    "Name": "Stephen Graham",
+    "TEAM": "Bobcats",
+    "Points": 296
+  },
+  {
+    "Name": "Danny Granger",
+    "TEAM": "Pacers",
+    "Points": 1497
+  },
+  {
+    "Name": "Aaron Gray",
+    "TEAM": "Hornets",
+    "Points": 86
+  },
+  {
+    "Name": "Aaron Gray",
+    "TEAM": "Bulls",
+    "Points": 18
+  },
+  {
+    "Name": "Danny Green",
+    "TEAM": "Cavaliers",
+    "Points": 40
+  },
+  {
+    "Name": "Donte Greene",
+    "TEAM": "Kings",
+    "Points": 647
+  },
+  {
+    "Name": "Jeff Green",
+    "TEAM": "Thunder",
+    "Points": 1239
+  },
+  {
+    "Name": "Willie Green",
+    "TEAM": "76ers",
+    "Points": 638
+  },
+  {
+    "Name": "Taylor Griffin",
+    "TEAM": "Suns",
+    "Points": 10
+  },
+  {
+    "Name": "Hamed Haddadi",
+    "TEAM": "Grizzlies",
+    "Points": 62
+  },
+  {
+    "Name": "Malik Hairston",
+    "TEAM": "Spurs",
+    "Points": 99
+  },
+  {
+    "Name": "Marcus Haislip",
+    "TEAM": "Spurs",
+    "Points": 25
+  },
+  {
+    "Name": "Richard Hamilton",
+    "TEAM": "Pistons",
+    "Points": 831
+  },
+  {
+    "Name": "Tyler Hansbrough",
+    "TEAM": "Pacers",
+    "Points": 246
+  },
+  {
+    "Name": "James Harden",
+    "TEAM": "Thunder",
+    "Points": 753
+  },
+  {
+    "Name": "Al Harrington",
+    "TEAM": "Knicks",
+    "Points": 1276
+  },
+  {
+    "Name": "Devin Harris",
+    "TEAM": "Nets",
+    "Points": 1080
+  },
+  {
+    "Name": "Mike Harris",
+    "TEAM": "Rockets",
+    "Points": 25
+  },
+  {
+    "Name": "Mike Harris",
+    "TEAM": "Wizards",
+    "Points": 4
+  },
+  {
+    "Name": "Jason Hart",
+    "TEAM": "Hornets",
+    "Points": 2
+  },
+  {
+    "Name": "Jason Hart",
+    "TEAM": "Timberwolves",
+    "Points": 0
+  },
+  {
+    "Name": "Udonis Haslem",
+    "TEAM": "Heat",
+    "Points": 771
+  },
+  {
+    "Name": "Trenton Hassell",
+    "TEAM": "Nets",
+    "Points": 232
+  },
+  {
+    "Name": "Spencer Hawes",
+    "TEAM": "Kings",
+    "Points": 723
+  },
+  {
+    "Name": "Chuck Hayes",
+    "TEAM": "Rockets",
+    "Points": 358
+  },
+  {
+    "Name": "Jarvis Hayes",
+    "TEAM": "Nets",
+    "Points": 350
+  },
+  {
+    "Name": "Brendan Haywood",
+    "TEAM": "Mavericks",
+    "Points": 226
+  },
+  {
+    "Name": "Brendan Haywood",
+    "TEAM": "Wizards",
+    "Points": 478
+  },
+  {
+    "Name": "Luther Head",
+    "TEAM": "Pacers",
+    "Points": 357
+  },
+  {
+    "Name": "Gerald Henderson",
+    "TEAM": "Bobcats",
+    "Points": 113
+  },
+  {
+    "Name": "Roy Hibbert",
+    "TEAM": "Pacers",
+    "Points": 946
+  },
+  {
+    "Name": "J.J. Hickson",
+    "TEAM": "Cavaliers",
+    "Points": 689
+  },
+  {
+    "Name": "Nene Hilario",
+    "TEAM": "Rockets",
+    "Points": 1135
+  },
+  {
+    "Name": "George Hill",
+    "TEAM": "Spurs",
+    "Points": 964
+  },
+  {
+    "Name": "Grant Hill",
+    "TEAM": "Suns",
+    "Points": 912
+  },
+  {
+    "Name": "Jordan Hill",
+    "TEAM": "Knicks",
+    "Points": 97
+  },
+  {
+    "Name": "Jordan Hill",
+    "TEAM": "Rockets",
+    "Points": 147
+  },
+  {
+    "Name": "Kirk Hinrich",
+    "TEAM": "Bulls",
+    "Points": 805
+  },
+  {
+    "Name": "Jrue Holiday",
+    "TEAM": "76ers",
+    "Points": 587
+  },
+  {
+    "Name": "Ryan Hollins",
+    "TEAM": "Timberwolves",
+    "Points": 447
+  },
+  {
+    "Name": "Al Horford",
+    "TEAM": "Hawks",
+    "Points": 1148
+  },
+  {
+    "Name": "Eddie House",
+    "TEAM": "Celtics",
+    "Points": 358
+  },
+  {
+    "Name": "Eddie House",
+    "TEAM": "Knicks",
+    "Points": 115
+  },
+  {
+    "Name": "Dwight Howard",
+    "TEAM": "Magic",
+    "Points": 1503
+  },
+  {
+    "Name": "Josh Howard",
+    "TEAM": "Mavericks",
+    "Points": 388
+  },
+  {
+    "Name": "Josh Howard",
+    "TEAM": "Wizards",
+    "Points": 58
+  },
+  {
+    "Name": "Juwan Howard",
+    "TEAM": "Trailblazers",
+    "Points": 437
+  },
+  {
+    "Name": "Lester Hudson",
+    "TEAM": "Grizzlies",
+    "Points": 36
+  },
+  {
+    "Name": "Lester Hudson",
+    "TEAM": "Celtics",
+    "Points": 22
+  },
+  {
+    "Name": "Larry Hughes",
+    "TEAM": "Bobcats",
+    "Points": 114
+  },
+  {
+    "Name": "Larry Hughes",
+    "TEAM": "Knicks",
+    "Points": 297
+  },
+  {
+    "Name": "Kris Humphries",
+    "TEAM": "Nets",
+    "Points": 356
+  },
+  {
+    "Name": "Kris Humphries",
+    "TEAM": "Mavericks",
+    "Points": 131
+  },
+  {
+    "Name": "Chris Hunter",
+    "TEAM": "Warriors",
+    "Points": 270
+  },
+  {
+    "Name": "Lindsey Hunter",
+    "TEAM": "Bulls",
+    "Points": 13
+  },
+  {
+    "Name": "Othello Hunter",
+    "TEAM": "Hawks",
+    "Points": 11
+  },
+  {
+    "Name": "Steven Hunter",
+    "TEAM": "Grizzlies",
+    "Points": 53
+  },
+  {
+    "Name": "Serge Ibaka",
+    "TEAM": "Thunder",
+    "Points": 461
+  },
+  {
+    "Name": "Andre Iguodala",
+    "TEAM": "76ers",
+    "Points": 1401
+  },
+  {
+    "Name": "Zydrunas Ilgauskas",
+    "TEAM": "Cavaliers",
+    "Points": 474
+  },
+  {
+    "Name": "Ersan Ilyasova",
+    "TEAM": "Bucks",
+    "Points": 840
+  },
+  {
+    "Name": "Allen Iverson",
+    "TEAM": "Grizzlies",
+    "Points": 37
+  },
+  {
+    "Name": "Allen Iverson",
+    "TEAM": "76ers",
+    "Points": 348
+  },
+  {
+    "Name": "Royal Ivey",
+    "TEAM": "76ers",
+    "Points": 70
+  },
+  {
+    "Name": "Royal Ivey",
+    "TEAM": "Bucks",
+    "Points": 23
+  },
+  {
+    "Name": "Jarrett Jack",
+    "TEAM": "Raptors",
+    "Points": 931
+  },
+  {
+    "Name": "Cedric Jackson",
+    "TEAM": "Spurs",
+    "Points": 7
+  },
+  {
+    "Name": "Cedric Jackson",
+    "TEAM": "Cavaliers",
+    "Points": 1
+  },
+  {
+    "Name": "Cedric Jackson",
+    "TEAM": "Wizards",
+    "Points": 12
+  },
+  {
+    "Name": "Darnell Jackson",
+    "TEAM": "Cavaliers",
+    "Points": 21
+  },
+  {
+    "Name": "Darnell Jackson",
+    "TEAM": "Bucks",
+    "Points": 2
+  },
+  {
+    "Name": "Stephen Jackson",
+    "TEAM": "Warriors",
+    "Points": 149
+  },
+  {
+    "Name": "Stephen Jackson",
+    "TEAM": "Bobcats",
+    "Points": 1518
+  },
+  {
+    "Name": "LeBron James",
+    "TEAM": "Cavaliers",
+    "Points": 2258
+  },
+  {
+    "Name": "Mike James",
+    "TEAM": "Wizards",
+    "Points": 18
+  },
+  {
+    "Name": "Antawn Jamison",
+    "TEAM": "Wizards",
+    "Points": 840
+  },
+  {
+    "Name": "Antawn Jamison",
+    "TEAM": "Cavaliers",
+    "Points": 395
+  },
+  {
+    "Name": "Nathan Jawai",
+    "TEAM": "Timberwolves",
+    "Points": 124
+  },
+  {
+    "Name": "Al Jefferson",
+    "TEAM": "Timberwolves",
+    "Points": 1301
+  },
+  {
+    "Name": "Othyus Jeffers",
+    "TEAM": "Jazz",
+    "Points": 37
+  },
+  {
+    "Name": "Richard Jefferson",
+    "TEAM": "Spurs",
+    "Points": 994
+  },
+  {
+    "Name": "Jared Jeffries",
+    "TEAM": "Knicks",
+    "Points": 284
+  },
+  {
+    "Name": "Jared Jeffries",
+    "TEAM": "Rockets",
+    "Points": 88
+  },
+  {
+    "Name": "Brandon Jennings",
+    "TEAM": "Bucks",
+    "Points": 1270
+  },
+  {
+    "Name": "Jonas Jerebko",
+    "TEAM": "Pistons",
+    "Points": 741
+  },
+  {
+    "Name": "Yi Jianlian",
+    "TEAM": "Nets",
+    "Points": 623
+  },
+  {
+    "Name": "Amir Johnson",
+    "TEAM": "Raptors",
+    "Points": 511
+  },
+  {
+    "Name": "Anthony Johnson",
+    "TEAM": "Magic",
+    "Points": 130
+  },
+  {
+    "Name": "James Johnson",
+    "TEAM": "Bulls",
+    "Points": 256
+  },
+  {
+    "Name": "Joe Johnson",
+    "TEAM": "Hawks",
+    "Points": 1619
+  },
+  {
+    "Name": "Dahntay Jones",
+    "TEAM": "Pacers",
+    "Points": 776
+  },
+  {
+    "Name": "Dwayne Jones",
+    "TEAM": "Suns",
+    "Points": 0
+  },
+  {
+    "Name": "James Jones",
+    "TEAM": "Heat",
+    "Points": 146
+  },
+  {
+    "Name": "Solomon Jones",
+    "TEAM": "Pacers",
+    "Points": 207
+  },
+  {
+    "Name": "DeAndre Jordan",
+    "TEAM": "Clippers",
+    "Points": 336
+  },
+  {
+    "Name": "Chris Kaman",
+    "TEAM": "Clippers",
+    "Points": 1408
+  },
+  {
+    "Name": "Jason Kapono",
+    "TEAM": "76ers",
+    "Points": 324
+  },
+  {
+    "Name": "Coby Karl",
+    "TEAM": "Warriors",
+    "Points": 28
+  },
+  {
+    "Name": "Coby Karl",
+    "TEAM": "Cavaliers",
+    "Points": 0
+  },
+  {
+    "Name": "Jason Kidd",
+    "TEAM": "Mavericks",
+    "Points": 824
+  },
+  {
+    "Name": "Andrei Kirilenko",
+    "TEAM": "Jazz",
+    "Points": 688
+  },
+  {
+    "Name": "Kyle Korver",
+    "TEAM": "Jazz",
+    "Points": 374
+  },
+  {
+    "Name": "Kosta Koufos",
+    "TEAM": "Jazz",
+    "Points": 53
+  },
+  {
+    "Name": "Nenad Krstic",
+    "TEAM": "Thunder",
+    "Points": 639
+  },
+  {
+    "Name": "Oliver Lafayette",
+    "TEAM": "Celtics",
+    "Points": 7
+  },
+  {
+    "Name": "Carl Landry",
+    "TEAM": "Kings",
+    "Points": 504
+  },
+  {
+    "Name": "Carl Landry",
+    "TEAM": "Rockets",
+    "Points": 839
+  },
+  {
+    "Name": "Marcus Landry",
+    "TEAM": "Knicks",
+    "Points": 44
+  },
+  {
+    "Name": "Marcus Landry",
+    "TEAM": "Celtics",
+    "Points": 0
+  },
+  {
+    "Name": "Acie Law",
+    "TEAM": "Bulls",
+    "Points": 66
+  },
+  {
+    "Name": "Acie Law",
+    "TEAM": "Bobcats",
+    "Points": 16
+  },
+  {
+    "Name": "Acie Law",
+    "TEAM": "Warriors",
+    "Points": 31
+  },
+  {
+    "Name": "Ty Lawson",
+    "TEAM": "Rockets",
+    "Points": 542
+  },
+  {
+    "Name": "Courtney Lee",
+    "TEAM": "Nets",
+    "Points": 885
+  },
+  {
+    "Name": "David Lee",
+    "TEAM": "Knicks",
+    "Points": 1640
+  },
+  {
+    "Name": "Rashard Lewis",
+    "TEAM": "Magic",
+    "Points": 1013
+  },
+  {
+    "Name": "Shaun Livingston",
+    "TEAM": "Thunder",
+    "Points": 10
+  },
+  {
+    "Name": "Shaun Livingston",
+    "TEAM": "Wizards",
+    "Points": 240
+  },
+  {
+    "Name": "Brook Lopez",
+    "TEAM": "Nets",
+    "Points": 1542
+  },
+  {
+    "Name": "Robin Lopez",
+    "TEAM": "Suns",
+    "Points": 430
+  },
+  {
+    "Name": "Kevin Love",
+    "TEAM": "Timberwolves",
+    "Points": 842
+  },
+  {
+    "Name": "Kyle Lowry",
+    "TEAM": "Rockets",
+    "Points": 620
+  },
+  {
+    "Name": "Corey Maggette",
+    "TEAM": "Warriors",
+    "Points": 1387
+  },
+  {
+    "Name": "Jamaal Magloire",
+    "TEAM": "Heat",
+    "Points": 77
+  },
+  {
+    "Name": "Ian Mahinmi",
+    "TEAM": "Spurs",
+    "Points": 101
+  },
+  {
+    "Name": "Shawn Marion",
+    "TEAM": "Mavericks",
+    "Points": 898
+  },
+  {
+    "Name": "Sean Marks",
+    "TEAM": "Hornets",
+    "Points": 10
+  },
+  {
+    "Name": "Cartier Martin",
+    "TEAM": "Warriors",
+    "Points": 90
+  },
+  {
+    "Name": "Cartier Martin",
+    "TEAM": "Wizards",
+    "Points": 51
+  },
+  {
+    "Name": "Kenyon Martin",
+    "TEAM": "Rockets",
+    "Points": 667
+  },
+  {
+    "Name": "Kevin Martin",
+    "TEAM": "Rockets",
+    "Points": 510
+  },
+  {
+    "Name": "Kevin Martin",
+    "TEAM": "Kings",
+    "Points": 436
+  },
+  {
+    "Name": "Desmond Mason",
+    "TEAM": "Kings",
+    "Points": 13
+  },
+  {
+    "Name": "Roger Mason",
+    "TEAM": "Spurs",
+    "Points": 501
+  },
+  {
+    "Name": "Wesley Matthews",
+    "TEAM": "Jazz",
+    "Points": 769
+  },
+  {
+    "Name": "Jason Maxiell",
+    "TEAM": "Pistons",
+    "Points": 513
+  },
+  {
+    "Name": "Eric Maynor",
+    "TEAM": "Thunder",
+    "Points": 248
+  },
+  {
+    "Name": "Eric Maynor",
+    "TEAM": "Jazz",
+    "Points": 134
+  },
+  {
+    "Name": "O.J. Mayo",
+    "TEAM": "Grizzlies",
+    "Points": 1432
+  },
+  {
+    "Name": "Sean May",
+    "TEAM": "Kings",
+    "Points": 123
+  },
+  {
+    "Name": "Luc Mbah a Moute",
+    "TEAM": "Bucks",
+    "Points": 453
+  },
+  {
+    "Name": "Didier Ilunga-Mbenga",
+    "TEAM": "Lakers",
+    "Points": 105
+  },
+  {
+    "Name": "Antonio McDyess",
+    "TEAM": "Spurs",
+    "Points": 446
+  },
+  {
+    "Name": "JaVale McGee",
+    "TEAM": "Wizards",
+    "Points": 386
+  },
+  {
+    "Name": "Tracy McGrady",
+    "TEAM": "Knicks",
+    "Points": 226
+  },
+  {
+    "Name": "Tracy McGrady",
+    "TEAM": "Rockets",
+    "Points": 19
+  },
+  {
+    "Name": "Dominic McGuire",
+    "TEAM": "Kings",
+    "Points": 8
+  },
+  {
+    "Name": "Dominic McGuire",
+    "TEAM": "Wizards",
+    "Points": 30
+  },
+  {
+    "Name": "Josh McRoberts",
+    "TEAM": "Pacers",
+    "Points": 179
+  },
+  {
+    "Name": "Jodie Meeks",
+    "TEAM": "Bucks",
+    "Points": 169
+  },
+  {
+    "Name": "Jodie Meeks",
+    "TEAM": "76ers",
+    "Points": 112
+  },
+  {
+    "Name": "Pops Mensah-Bonsu",
+    "TEAM": "Raptors",
+    "Points": 34
+  },
+  {
+    "Name": "Pops Mensah-Bonsu",
+    "TEAM": "Rockets",
+    "Points": 5
+  },
+  {
+    "Name": "C.J. Miles",
+    "TEAM": "Jazz",
+    "Points": 622
+  },
+  {
+    "Name": "Darko Milicic",
+    "TEAM": "Timberwolves",
+    "Points": 199
+  },
+  {
+    "Name": "Darko Milicic",
+    "TEAM": "Knicks",
+    "Points": 16
+  },
+  {
+    "Name": "Andre Miller",
+    "TEAM": "Trailblazers",
+    "Points": 1146
+  },
+  {
+    "Name": "Brad Miller",
+    "TEAM": "Bulls",
+    "Points": 719
+  },
+  {
+    "Name": "Mike Miller",
+    "TEAM": "Wizards",
+    "Points": 586
+  },
+  {
+    "Name": "Paul Millsap",
+    "TEAM": "Jazz",
+    "Points": 954
+  },
+  {
+    "Name": "Patrick Mills",
+    "TEAM": "Trailblazers",
+    "Points": 26
+  },
+  {
+    "Name": "Nazr Mohammed",
+    "TEAM": "Bobcats",
+    "Points": 459
+  },
+  {
+    "Name": "Jamario Moon",
+    "TEAM": "Cavaliers",
+    "Points": 296
+  },
+  {
+    "Name": "Mikki Moore",
+    "TEAM": "Warriors",
+    "Points": 115
+  },
+  {
+    "Name": "Adam Morrison",
+    "TEAM": "Lakers",
+    "Points": 74
+  },
+  {
+    "Name": "Randolph Morris",
+    "TEAM": "Hawks",
+    "Points": 62
+  },
+  {
+    "Name": "Anthony Morrow",
+    "TEAM": "Warriors",
+    "Points": 899
+  },
+  {
+    "Name": "Byron Mullens",
+    "TEAM": "Thunder",
+    "Points": 14
+  },
+  {
+    "Name": "Troy Murphy",
+    "TEAM": "Pacers",
+    "Points": 1050
+  },
+  {
+    "Name": "Ronald Murray",
+    "TEAM": "Bobcats",
+    "Points": 454
+  },
+  {
+    "Name": "Ronald Murray",
+    "TEAM": "Bulls",
+    "Points": 292
+  },
+  {
+    "Name": "Eduardo Najera",
+    "TEAM": "Mavericks",
+    "Points": 108
+  },
+  {
+    "Name": "Eduardo Najera",
+    "TEAM": "Nets",
+    "Points": 49
+  },
+  {
+    "Name": "Steve Nash",
+    "TEAM": "Suns",
+    "Points": 1333
+  },
+  {
+    "Name": "Jameer Nelson",
+    "TEAM": "Magic",
+    "Points": 818
+  },
+  {
+    "Name": "Rasho Nesterovic",
+    "TEAM": "Raptors",
+    "Points": 163
+  },
+  {
+    "Name": "Joakim Noah",
+    "TEAM": "Bulls",
+    "Points": 687
+  },
+  {
+    "Name": "Andres Nocioni",
+    "TEAM": "Kings",
+    "Points": 635
+  },
+  {
+    "Name": "Steve Novak",
+    "TEAM": "Clippers",
+    "Points": 113
+  },
+  {
+    "Name": "Dirk Nowitzki",
+    "TEAM": "Mavericks",
+    "Points": 2027
+  },
+  {
+    "Name": "Fabricio Oberto",
+    "TEAM": "Wizards",
+    "Points": 83
+  },
+  {
+    "Name": "Patrick O'Bryant",
+    "TEAM": "Raptors",
+    "Points": 19
+  },
+  {
+    "Name": "Greg Oden",
+    "TEAM": "Trailblazers",
+    "Points": 233
+  },
+  {
+    "Name": "Lamar Odom",
+    "TEAM": "Lakers",
+    "Points": 882
+  },
+  {
+    "Name": "Emeka Okafor",
+    "TEAM": "Hornets",
+    "Points": 850
+  },
+  {
+    "Name": "Mehmet Okur",
+    "TEAM": "Jazz",
+    "Points": 988
+  },
+  {
+    "Name": "Kevin Ollie",
+    "TEAM": "Thunder",
+    "Points": 44
+  },
+  {
+    "Name": "Jermaine O'Neal",
+    "TEAM": "Heat",
+    "Points": 950
+  },
+  {
+    "Name": "Shaquille O'Neal",
+    "TEAM": "Cavaliers",
+    "Points": 636
+  },
+  {
+    "Name": "Travis Outlaw",
+    "TEAM": "Trailblazers",
+    "Points": 109
+  },
+  {
+    "Name": "Travis Outlaw",
+    "TEAM": "Clippers",
+    "Points": 200
+  },
+  {
+    "Name": "Zaza Pachulia",
+    "TEAM": "Hawks",
+    "Points": 333
+  },
+  {
+    "Name": "Jannero Pargo",
+    "TEAM": "Bulls",
+    "Points": 344
+  },
+  {
+    "Name": "Anthony Parker",
+    "TEAM": "Cavaliers",
+    "Points": 595
+  },
+  {
+    "Name": "Tony Parker",
+    "TEAM": "Spurs",
+    "Points": 894
+  },
+  {
+    "Name": "Chris Paul",
+    "TEAM": "Hornets",
+    "Points": 841
+  },
+  {
+    "Name": "Sasha Pavlovic",
+    "TEAM": "Timberwolves",
+    "Points": 263
+  },
+  {
+    "Name": "Oleksiy Pecherov",
+    "TEAM": "Timberwolves",
+    "Points": 197
+  },
+  {
+    "Name": "Jeff Pendergraph",
+    "TEAM": "Trailblazers",
+    "Points": 104
+  },
+  {
+    "Name": "Kendrick Perkins",
+    "TEAM": "Celtics",
+    "Points": 791
+  },
+  {
+    "Name": "Morris Peterson",
+    "TEAM": "Hornets",
+    "Points": 327
+  },
+  {
+    "Name": "Johan Petro",
+    "TEAM": "Rockets",
+    "Points": 122
+  },
+  {
+    "Name": "Paul Pierce",
+    "TEAM": "Celtics",
+    "Points": 1296
+  },
+  {
+    "Name": "Mickael Pietrus",
+    "TEAM": "Magic",
+    "Points": 651
+  },
+  {
+    "Name": "James Posey",
+    "TEAM": "Hornets",
+    "Points": 399
+  },
+  {
+    "Name": "Leon Powe",
+    "TEAM": "Cavaliers",
+    "Points": 79
+  },
+  {
+    "Name": "Josh Powell",
+    "TEAM": "Lakers",
+    "Points": 169
+  },
+  {
+    "Name": "A.J. Price",
+    "TEAM": "Pacers",
+    "Points": 410
+  },
+  {
+    "Name": "Ronnie Price",
+    "TEAM": "Jazz",
+    "Points": 255
+  },
+  {
+    "Name": "Tayshaun Prince",
+    "TEAM": "Pistons",
+    "Points": 661
+  },
+  {
+    "Name": "Joel Przybilla",
+    "TEAM": "Trailblazers",
+    "Points": 123
+  },
+  {
+    "Name": "Chris Quinn",
+    "TEAM": "Nets",
+    "Points": 56
+  },
+  {
+    "Name": "Vladimir Radmanovic",
+    "TEAM": "Warriors",
+    "Points": 217
+  },
+  {
+    "Name": "Vladimir Radmanovic",
+    "TEAM": "Bobcats",
+    "Points": 39
+  },
+  {
+    "Name": "Anthony Randolph",
+    "TEAM": "Warriors",
+    "Points": 384
+  },
+  {
+    "Name": "Shavlik Randolph",
+    "TEAM": "Trailblazers",
+    "Points": 4
+  },
+  {
+    "Name": "Shavlik Randolph",
+    "TEAM": "Heat",
+    "Points": 10
+  },
+  {
+    "Name": "Zach Randolph",
+    "TEAM": "Grizzlies",
+    "Points": 1681
+  },
+  {
+    "Name": "Theo Ratliff",
+    "TEAM": "Spurs",
+    "Points": 34
+  },
+  {
+    "Name": "Theo Ratliff",
+    "TEAM": "Bobcats",
+    "Points": 144
+  },
+  {
+    "Name": "Michael Redd",
+    "TEAM": "Bucks",
+    "Points": 215
+  },
+  {
+    "Name": "J.J. Redick",
+    "TEAM": "Magic",
+    "Points": 788
+  },
+  {
+    "Name": "Chris Richard",
+    "TEAM": "Bulls",
+    "Points": 37
+  },
+  {
+    "Name": "Jason Richardson",
+    "TEAM": "Suns",
+    "Points": 1239
+  },
+  {
+    "Name": "Quentin Richardson",
+    "TEAM": "Heat",
+    "Points": 678
+  },
+  {
+    "Name": "Luke Ridnour",
+    "TEAM": "Bucks",
+    "Points": 852
+  },
+  {
+    "Name": "Nate Robinson",
+    "TEAM": "Knicks",
+    "Points": 397
+  },
+  {
+    "Name": "Nate Robinson",
+    "TEAM": "Celtics",
+    "Points": 170
+  },
+  {
+    "Name": "Sergio Rodriguez",
+    "TEAM": "Knicks",
+    "Points": 200
+  },
+  {
+    "Name": "Sergio Rodriguez",
+    "TEAM": "Kings",
+    "Points": 234
+  },
+  {
+    "Name": "Rajon Rondo",
+    "TEAM": "Celtics",
+    "Points": 1110
+  },
+  {
+    "Name": "Derrick Rose",
+    "TEAM": "Bulls",
+    "Points": 1619
+  },
+  {
+    "Name": "Quinton Ross",
+    "TEAM": "Mavericks",
+    "Points": 54
+  },
+  {
+    "Name": "Quinton Ross",
+    "TEAM": "Wizards",
+    "Points": 38
+  },
+  {
+    "Name": "Brandon Roy",
+    "TEAM": "Trailblazers",
+    "Points": 1398
+  },
+  {
+    "Name": "Brandon Rush",
+    "TEAM": "Pacers",
+    "Points": 774
+  },
+  {
+    "Name": "Kareem Rush",
+    "TEAM": "Clippers",
+    "Points": 9
+  },
+  {
+    "Name": "John Salmons",
+    "TEAM": "Bucks",
+    "Points": 596
+  },
+  {
+    "Name": "John Salmons",
+    "TEAM": "Bulls",
+    "Points": 649
+  },
+  {
+    "Name": "Brian Scalabrine",
+    "TEAM": "Celtics",
+    "Points": 78
+  },
+  {
+    "Name": "Luis Scola",
+    "TEAM": "Rockets",
+    "Points": 1329
+  },
+  {
+    "Name": "Thabo Sefolosha",
+    "TEAM": "Thunder",
+    "Points": 489
+  },
+  {
+    "Name": "Ramon Sessions",
+    "TEAM": "Timberwolves",
+    "Points": 674
+  },
+  {
+    "Name": "Bobby Simmons",
+    "TEAM": "Nets",
+    "Points": 122
+  },
+  {
+    "Name": "James Singleton",
+    "TEAM": "Mavericks",
+    "Points": 59
+  },
+  {
+    "Name": "James Singleton",
+    "TEAM": "Wizards",
+    "Points": 195
+  },
+  {
+    "Name": "Brian Skinner",
+    "TEAM": "Clippers",
+    "Points": 26
+  },
+  {
+    "Name": "Craig Smith",
+    "TEAM": "Clippers",
+    "Points": 585
+  },
+  {
+    "Name": "Jason Smith",
+    "TEAM": "76ers",
+    "Points": 189
+  },
+  {
+    "Name": "Joe Smith",
+    "TEAM": "Hawks",
+    "Points": 194
+  },
+  {
+    "Name": "Josh Smith",
+    "TEAM": "Hawks",
+    "Points": 1269
+  },
+  {
+    "Name": "J.R. Smith",
+    "TEAM": "Rockets",
+    "Points": 1156
+  },
+  {
+    "Name": "Darius Songaila",
+    "TEAM": "Hornets",
+    "Points": 543
+  },
+  {
+    "Name": "Marreese Speights",
+    "TEAM": "76ers",
+    "Points": 532
+  },
+  {
+    "Name": "Jerry Stackhouse",
+    "TEAM": "Bucks",
+    "Points": 358
+  },
+  {
+    "Name": "DeShawn Stevenson",
+    "TEAM": "Mavericks",
+    "Points": 49
+  },
+  {
+    "Name": "DeShawn Stevenson",
+    "TEAM": "Wizards",
+    "Points": 87
+  },
+  {
+    "Name": "Peja Stojakovic",
+    "TEAM": "Hornets",
+    "Points": 784
+  },
+  {
+    "Name": "Amare Stoudemire",
+    "TEAM": "Suns",
+    "Points": 1896
+  },
+  {
+    "Name": "Rodney Stuckey",
+    "TEAM": "Pistons",
+    "Points": 1215
+  },
+  {
+    "Name": "DaJuan Summers",
+    "TEAM": "Pistons",
+    "Points": 134
+  },
+  {
+    "Name": "Jermaine Taylor",
+    "TEAM": "Rockets",
+    "Points": 128
+  },
+  {
+    "Name": "Jeff Teague",
+    "TEAM": "Hawks",
+    "Points": 228
+  },
+  {
+    "Name": "Sebastian Telfair",
+    "TEAM": "Cavaliers",
+    "Points": 39
+  },
+  {
+    "Name": "Sebastian Telfair",
+    "TEAM": "Clippers",
+    "Points": 169
+  },
+  {
+    "Name": "Garrett Temple",
+    "TEAM": "Rockets",
+    "Points": 45
+  },
+  {
+    "Name": "Garrett Temple",
+    "TEAM": "Spurs",
+    "Points": 80
+  },
+  {
+    "Name": "Garrett Temple",
+    "TEAM": "Kings",
+    "Points": 11
+  },
+  {
+    "Name": "Jason Terry",
+    "TEAM": "Mavericks",
+    "Points": 1280
+  },
+  {
+    "Name": "Hasheem Thabeet",
+    "TEAM": "Grizzlies",
+    "Points": 208
+  },
+  {
+    "Name": "Etan Thomas",
+    "TEAM": "Thunder",
+    "Points": 75
+  },
+  {
+    "Name": "Kenny Thomas",
+    "TEAM": "Kings",
+    "Points": 41
+  },
+  {
+    "Name": "Kurt Thomas",
+    "TEAM": "Bucks",
+    "Points": 210
+  },
+  {
+    "Name": "Tim Thomas",
+    "TEAM": "Mavericks",
+    "Points": 135
+  },
+  {
+    "Name": "Tyrus Thomas",
+    "TEAM": "Bulls",
+    "Points": 256
+  },
+  {
+    "Name": "Tyrus Thomas",
+    "TEAM": "Bobcats",
+    "Points": 252
+  },
+  {
+    "Name": "Jason Thompson",
+    "TEAM": "Kings",
+    "Points": 939
+  },
+  {
+    "Name": "Al Thornton",
+    "TEAM": "Clippers",
+    "Points": 548
+  },
+  {
+    "Name": "Al Thornton",
+    "TEAM": "Wizards",
+    "Points": 256
+  },
+  {
+    "Name": "Marcus Thornton",
+    "TEAM": "Hornets",
+    "Points": 1057
+  },
+  {
+    "Name": "Jamaal Tinsley",
+    "TEAM": "Grizzlies",
+    "Points": 133
+  },
+  {
+    "Name": "Anthony Tolliver",
+    "TEAM": "Trailblazers",
+    "Points": 0
+  },
+  {
+    "Name": "Anthony Tolliver",
+    "TEAM": "Warriors",
+    "Points": 539
+  },
+  {
+    "Name": "Alando Tucker",
+    "TEAM": "Suns",
+    "Points": 43
+  },
+  {
+    "Name": "Alando Tucker",
+    "TEAM": "Timberwolves",
+    "Points": 8
+  },
+  {
+    "Name": "Ronny Turiaf",
+    "TEAM": "Warriors",
+    "Points": 207
+  },
+  {
+    "Name": "Hedo Turkoglu",
+    "TEAM": "Raptors",
+    "Points": 835
+  },
+  {
+    "Name": "Ime Udoka",
+    "TEAM": "Kings",
+    "Points": 250
+  },
+  {
+    "Name": "Beno Udrih",
+    "TEAM": "Kings",
+    "Points": 1023
+  },
+  {
+    "Name": "Roko Ukic",
+    "TEAM": "Bucks",
+    "Points": 40
+  },
+  {
+    "Name": "Anderson Varejao",
+    "TEAM": "Cavaliers",
+    "Points": 651
+  },
+  {
+    "Name": "Charlie Villanueva",
+    "TEAM": "Pistons",
+    "Points": 931
+  },
+  {
+    "Name": "Sasha Vujacic",
+    "TEAM": "Lakers",
+    "Points": 185
+  },
+  {
+    "Name": "Dwyane Wade",
+    "TEAM": "Heat",
+    "Points": 2045
+  },
+  {
+    "Name": "Bill Walker",
+    "TEAM": "Knicks",
+    "Points": 321
+  },
+  {
+    "Name": "Bill Walker",
+    "TEAM": "Celtics",
+    "Points": 8
+  },
+  {
+    "Name": "Ben Wallace",
+    "TEAM": "Pistons",
+    "Points": 381
+  },
+  {
+    "Name": "Gerald Wallace",
+    "TEAM": "Bobcats",
+    "Points": 1386
+  },
+  {
+    "Name": "Rasheed Wallace",
+    "TEAM": "Celtics",
+    "Points": 710
+  },
+  {
+    "Name": "Luke Walton",
+    "TEAM": "Lakers",
+    "Points": 69
+  },
+  {
+    "Name": "Hakim Warrick",
+    "TEAM": "Bucks",
+    "Points": 490
+  },
+  {
+    "Name": "Hakim Warrick",
+    "TEAM": "Bulls",
+    "Points": 243
+  },
+  {
+    "Name": "C.J. Watson",
+    "TEAM": "Warriors",
+    "Points": 667
+  },
+  {
+    "Name": "Earl Watson",
+    "TEAM": "Pacers",
+    "Points": 619
+  },
+  {
+    "Name": "Kyle Weaver",
+    "TEAM": "Thunder",
+    "Points": 36
+  },
+  {
+    "Name": "Martell Webster",
+    "TEAM": "Trailblazers",
+    "Points": 768
+  },
+  {
+    "Name": "Sonny Weems",
+    "TEAM": "Raptors",
+    "Points": 518
+  },
+  {
+    "Name": "Russell Westbrook",
+    "TEAM": "Thunder",
+    "Points": 1322
+  },
+  {
+    "Name": "David West",
+    "TEAM": "Hornets",
+    "Points": 1541
+  },
+  {
+    "Name": "Delonte West",
+    "TEAM": "Cavaliers",
+    "Points": 528
+  },
+  {
+    "Name": "Mario West",
+    "TEAM": "Hawks",
+    "Points": 30
+  },
+  {
+    "Name": "D.J. White",
+    "TEAM": "Thunder",
+    "Points": 59
+  },
+  {
+    "Name": "Chris Wilcox",
+    "TEAM": "Pistons",
+    "Points": 152
+  },
+  {
+    "Name": "Damien Wilkins",
+    "TEAM": "Timberwolves",
+    "Points": 451
+  },
+  {
+    "Name": "Mike Wilks",
+    "TEAM": "Thunder",
+    "Points": 16
+  },
+  {
+    "Name": "Deron Williams",
+    "TEAM": "Jazz",
+    "Points": 1419
+  },
+  {
+    "Name": "Jason Williams",
+    "TEAM": "Magic",
+    "Points": 493
+  },
+  {
+    "Name": "Jawad Williams",
+    "TEAM": "Cavaliers",
+    "Points": 224
+  },
+  {
+    "Name": "Louis Williams",
+    "TEAM": "76ers",
+    "Points": 898
+  },
+  {
+    "Name": "Mo Williams",
+    "TEAM": "Cavaliers",
+    "Points": 1092
+  },
+  {
+    "Name": "Marvin Williams",
+    "TEAM": "Hawks",
+    "Points": 820
+  },
+  {
+    "Name": "Marcus Williams",
+    "TEAM": "Grizzlies",
+    "Points": 269
+  },
+  {
+    "Name": "Reggie Williams",
+    "TEAM": "Warriors",
+    "Points": 365
+  },
+  {
+    "Name": "Sean Williams",
+    "TEAM": "Nets",
+    "Points": 52
+  },
+  {
+    "Name": "Shelden Williams",
+    "TEAM": "Celtics",
+    "Points": 201
+  },
+  {
+    "Name": "Terrence Williams",
+    "TEAM": "Nets",
+    "Points": 656
+  },
+  {
+    "Name": "Antoine Wright",
+    "TEAM": "Raptors",
+    "Points": 435
+  },
+  {
+    "Name": "Dorell Wright",
+    "TEAM": "Heat",
+    "Points": 510
+  },
+  {
+    "Name": "Julian Wright",
+    "TEAM": "Hornets",
+    "Points": 259
+  },
+  {
+    "Name": "Nick Young",
+    "TEAM": "Wizards",
+    "Points": 639
+  },
+  {
+    "Name": "Sam Young",
+    "TEAM": "Grizzlies",
+    "Points": 595
+  },
+  {
+    "Name": "Thaddeus Young",
+    "TEAM": "76ers",
+    "Points": 926
+  }
+]
