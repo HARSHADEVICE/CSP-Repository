@@ -2,7 +2,7 @@
 /* Define variables for colors */
 $primary-color: #f44336;
 $secondary-color: #ffc107;
-$text-color: #fff;
+$text-color: #ffffff;
 
 /* Use variables to style elements */
 body {
@@ -25,6 +25,7 @@ h1 {
 
 p {
   margin: 1rem 0;
+  color: $secondary-color;
 }
 
 input[type="text"], button {
