@@ -69,7 +69,7 @@
     
         ,"post6": {
             "title": "Binary Math and Truth Tables 4/24/2023",
-            "content": "",
+            "content": "list = [&quot;apples&quot;, &quot;bananas&quot;, &quot;papayas&quot;] list.append(&quot;berries&quot;) list.remove(&quot;apples&quot;) print(list) . [&#39;bananas&#39;, &#39;papayas&#39;, &#39;berries&#39;] .",
             "url": "https://harshadevice.github.io/vscode/2023/04/03/Binary-Math-Truth-Tables.html",
             "relUrl": "/2023/04/03/Binary-Math-Truth-Tables.html",
             "date": " • Apr 3, 2023"
