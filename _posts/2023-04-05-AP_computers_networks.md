@@ -33,15 +33,16 @@ Pen and touch	Pen and touch support with 10 touch points
 
 
 Define or describe usage of Computer using Computer Programs. Pictures are preferred over a lot of text.  Use your experience.
-- Input devices: image.png
-- Output devices: An example of an output device is 
-- Program File
-- Program Code
-- Processes
-- Ports
-- Data File
-- Inspect Running Code
-- Inspect Variables
+- Input devices: Hardware components that allow users to interact with a computer and input data, such as a keyboard, mouse, or microphone.
+![Img](/mnt/c/Users/harsh/vscode/vscode/_notebooks/images/input devicrd.png)
+- Output devices: Hardware components that display or output information from a computer, such as a monitor, printer, or speakers.
+- Program File: A file that contains instructions and data for a computer program, typically saved on a hard drive or other storage device.
+- Program Code: Instructions written in a programming language that a computer can interpret and execute to perform specific tasks.
+- Processes: A series of tasks or instructions executed by a computer program that performs a specific function or set of functions.
+- Ports: Physical interfaces on a computer that allow for data transfer between devices, such as USB or HDMI ports.
+- Data File: A file that contains data, such as text, images, or audio, saved in a specific format that can be accessed and processed by a computer program.
+- Inspect Running Code:  Analyzing or examining the code of a running program in order to identify and diagnose errors or bugs.
+- Inspect Variables: Examining and evaluating the values of variables in a computer program at a specific point in time in order to understand how the program is functioning.
 
 
 ![Computer Hardware]({{site.baseurl}}/images/cpu.jpeg)
